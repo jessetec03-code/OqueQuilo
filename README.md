@@ -258,8 +258,8 @@ Ciência da Computação · FMU
 
 | Integrante | Responsabilidade |
 |---|---|
-| Integrante 1 | Arquitetura, backend, banco, acesso por perfil, integração do modelo de visão, testes e documentação |
-| Integrante 2 | Inteligência Alimentar: testes com fotos reais, gabarito, câmera no celular e demonstração |
-| Integrante 3 | Experiência do Cliente: página do QR Code, painel de satisfação e pedidos |
+| Dereck | Arquitetura, backend, banco, acesso por perfil, integração do modelo de visão, testes e documentação |
+| Jesse | Inteligência Alimentar: testes com fotos reais, gabarito, câmera no celular e demonstração |
+| Vitoria | Experiência do Cliente: página do QR Code, painel de satisfação e pedidos |
 
 <sub>Protótipo acadêmico. Marcas citadas pertencem aos seus donos. Dados exibidos nos indicadores são fictícios.</sub>
