@@ -1,0 +1,10 @@
+# Reconhecimento LOCAL de alimentos (YOLOE). Gratuito, roda no próprio computador.
+# Instale DEPOIS do requirements.txt, rodando NA PASTA DO PROJETO:
+#     python -m pip install -r requirements-visao.txt
+# Não precisa de Git. Baixa de 1 a 3 GB (inclui o PyTorch).
+# No 1º uso o modelo baixa ~700 MB de pesos do GitHub da Ultralytics para data/modelos/.
+# Windows: use o Python do python.org e uma pasta curta fora do OneDrive (ex.: C:\code-meat).
+# Licença do Ultralytics/YOLOE e do CLIP: AGPL-3.0 (veja docs/RECONHECIMENTO.md).
+ultralytics==8.4.219
+# CLIP da Ultralytics, empacotado em pacotes/ (veja pacotes/LEIAME.md)
+./pacotes/clip-1.0-py3-none-any.whl

@@ -1,0 +1,4 @@
+# OPCIONAL: reconhecimento de alimentos por IA (Claude, da Anthropic).
+# Sem este pacote o Code Meat funciona em modo de marcação manual.
+# Instale com: pip install -r requirements-ia.txt
+anthropic==2.14.0

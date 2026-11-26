@@ -1,0 +1,30 @@
+# Segredos: NUNCA enviar
+.env
+
+# Banco local e fotos enviadas (cada computador gera o seu)
+data/
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/
+
+# Fotos reais usadas no teste de reconhecimento (podem ser pessoais; só o gabarito vai para o GitHub)
+tests/fotos_reais/*.jpg
+tests/fotos_reais/*.jpeg
+tests/fotos_reais/*.png
+tests/fotos_reais/resultado/
+# Pesos de modelos baixados automaticamente
+*.pt
+*.ts
