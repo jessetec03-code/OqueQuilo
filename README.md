@@ -137,7 +137,7 @@ Detalhes, modelo do banco e contratos da API: **[docs/ARQUITETURA.md](docs/ARQUI
 | Fonte | **Inter** | SIL Open Font License |
 | Testes | pytest + Playwright | MIT / Apache-2.0 |
 
-**Desenvolvido pela equipe:** toda a aplicação (backend, banco, regras de negócio, integração com o modelo, regras de confiança, mapeamento de categorias, telas, captura pela câmera, página do cliente, dados demonstrativos e testes). **Integrado de terceiros:** as bibliotecas da tabela e os pesos pré-treinados do YOLOE. Nenhum modelo foi treinado pela equipe. FoodSAM e FoodInsSeg foram usados **apenas como referência conceitual** (nenhum código copiado); veja [docs/RECONHECIMENTO.md](docs/RECONHECIMENTO.md#referências-e-licenças).
+**Desenvolvido pela equipe:** toda a aplicação (backend, banco, regras de negócio, integração com o modelo, regras de confiança, mapeamento de categorias, telas, captura pela câmera, página do cliente, dados demonstrativos e testes). **Integrado de terceiros:** as bibliotecas da tabela e os pesos pré-treinados do YOLOE. Nenhum modelo foi treinado pela equipe. 
 
 ---
 
