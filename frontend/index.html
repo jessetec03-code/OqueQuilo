@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Code Meat | Intelligence Platform</title>
+  <link rel="icon" href="/static/img/logo.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/static/css/app.css">
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar" id="sidebar">
+      <a class="brand" href="#/visao-geral">
+        <img src="/static/img/logo.svg" alt="">
+        <div><div class="brand-name">CODE MEAT</div><div class="brand-sub">Intelligence Platform</div></div>
+      </a>
+      <nav class="nav" id="nav"></nav>
+      <div class="sidebar-foot">
+        Protótipo do Hackathon FMU Tech 2026.2<br>Desafio Bovinu'S Grill &amp; Beer<br>
+        <a href="/docs" target="_blank" rel="noopener">Documentação da API</a>
+      </div>
+    </aside>
+    <div class="main">
+      <header class="topbar" id="topbar">
+        <button class="btn btn-sm menu-btn" id="menuBtn" aria-label="Abrir menu"></button>
+        <div>
+          <div class="eyebrow" id="pageEyebrow">Code Meat</div>
+          <h1 id="pageTitle">Visão Geral</h1>
+        </div>
+        <div class="topbar-right">
+          <span class="badge demo hidden" id="demoBadge" title="Existem registros demonstrativos (fictícios) no banco, separados dos registros reais.">Contém dados demonstrativos</span>
+          <span class="live" id="live"><span id="liveText">Atualizado agora</span></span>
+          <div class="user-box" id="userBox"></div>
+        </div>
+      </header>
+      <main class="content" id="view"></main>
+    </div>
+  </div>
+  <div class="toasts" id="toasts"></div>
+  <script src="/static/vendor/chart.umd.min.js"></script>
+  <script type="module" src="/static/js/app.js"></script>
+</body>
+</html>
