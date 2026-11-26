@@ -1,0 +1,120 @@
+1
+00:00:02,520 --> 00:00:04,490
+No almoço por quilo da Bovinu'S,
+
+2
+00:00:04,490 --> 00:00:08,324
+o buffet movimenta muitos pratos e clientes ao mesmo tempo.
+
+3
+00:00:09,369 --> 00:00:14,417
+O que é servido, o que sobra e o que o cliente sente quase nunca vira registro.
+
+4
+00:00:14,437 --> 00:00:18,465
+O Code Meat transforma esses sinais em informação para a gestão,
+
+5
+00:00:18,465 --> 00:00:22,887
+com dois pilares: inteligência alimentar e experiência do cliente.
+
+6
+00:00:23,407 --> 00:00:27,105
+No primeiro pilar, a proposta é integrar uma câmera à balança:
+
+7
+00:00:27,105 --> 00:00:29,614
+quando o cliente coloca o prato para pesar,
+
+8
+00:00:29,614 --> 00:00:34,282
+a foto é capturada automaticamente, sem ação do cliente ou do funcionário.
+
+9
+00:00:34,303 --> 00:00:37,415
+Essa integração física ainda não está instalada.
+
+10
+00:00:37,415 --> 00:00:41,050
+No protótipo, a foto do prato é enviada manualmente.
+
+11
+00:00:41,070 --> 00:00:45,218
+A inteligência artificial roda no próprio computador do restaurante,
+
+12
+00:00:45,218 --> 00:00:48,919
+identifica os alimentos e desenha o contorno de cada um.
+
+13
+00:00:48,939 --> 00:00:51,897
+Cada item aparece com o seu nível de confiança,
+
+14
+00:00:51,897 --> 00:00:55,694
+e o que fica abaixo do limite é marcado como não identificado,
+
+15
+00:00:55,694 --> 00:00:57,575
+para o operador conferir.
+
+16
+00:00:57,595 --> 00:01:00,513
+O peso total, que na proposta virá da balança,
+
+17
+00:01:00,513 --> 00:01:05,121
+completa o registro e alimenta os indicadores de consumo e de sobras.
+
+18
+00:01:05,641 --> 00:01:10,375
+No segundo pilar, o cliente lê o QR Code da mesa e, sem baixar aplicativo,
+
+19
+00:01:10,375 --> 00:01:15,442
+avalia a experiência, deixa um comentário ou uma sugestão e chama a equipe.
+
+20
+00:01:15,462 --> 00:01:20,646
+O pedido chega ao painel na hora, e o garçom marca o atendimento pelo celular.
+
+21
+00:01:20,666 --> 00:01:22,265
+Para a gerência, notas,
+
+22
+00:01:22,265 --> 00:01:27,153
+reclamações e satisfação por período ficam reunidas em indicadores claros,
+
+23
+00:01:27,153 --> 00:01:29,484
+aqui com dados demonstrativos.
+
+24
+00:01:30,004 --> 00:01:32,678
+Na Visão Geral, os dois pilares se encontram
+
+25
+00:01:32,678 --> 00:01:35,448
+no mesmo ambiente de gestão: o que foi servido,
+
+26
+00:01:35,448 --> 00:01:38,926
+o que sobrou e o que o cliente sentiu aparecem lado a lado,
+
+27
+00:01:38,926 --> 00:01:41,516
+com alertas do que pede atenção agora.
+
+28
+00:01:41,536 --> 00:01:44,421
+E cada colaborador entra com o próprio usuário,
+
+29
+00:01:44,421 --> 00:01:47,039
+vendo apenas as funções do seu perfil.
+
+30
+00:01:47,709 --> 00:01:51,779
+Code Meat. Do prato à mesa, informação que vira decisão.
+
